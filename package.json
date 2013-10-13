@@ -1,0 +1,13 @@
+{
+	"name": "mongoose-bug_report",
+	"description": "Bug reproduction of a query with the explain option set to true.",
+	"version": "0.0.1",
+	"private": false,
+	"author": "Mickael van der Beek (https://github.com/Mickael-van-der-Beek)",
+	"engines": {
+		"node": "latest"
+	},
+	"dependencies": {
+		"mongoose": "latest"
+	}
+}
